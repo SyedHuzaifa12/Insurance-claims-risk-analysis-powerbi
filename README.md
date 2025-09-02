@@ -58,8 +58,6 @@ o	Fraud Detection: Correlation of claim frequency and premium outliers supports 
 o	Customer Segmentation: Provides insights on how marital status and region influence claim behavior.
 
 📸 Screenshots / Demos
-
-
-Insurance Claim & Risk Analysis Dashboard with interactive visuals
+  Example: ![Dashboard Preview].(https://github.com/SyedHuzaifa12/Insurance-claims-risk-analysis-powerbi/blob/main/snapshot%20of%20insurace-claims-%20dashboard.png).
 
 
