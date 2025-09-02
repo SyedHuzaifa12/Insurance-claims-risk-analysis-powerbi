@@ -69,7 +69,8 @@ To provide a visual, data-driven tool that:
 ---
 
 ## 📸 Screenshots / Demos  
-![Dashboard Preview]([./Screenshot.png](https://github.com/SyedHuzaifa12/Insurance-claims-risk-analysis-powerbi/blob/main/snapshot%20of%20insurace-claims-%20dashboard.png))  
+![Dashboard Preview](https://github.com/SyedHuzaifa12/Insurance-claims-risk-analysis-powerbi/blob/main/snapshot%20of%20insurace-claims-%20dashboard.png)
+
 _Insurance Claim & Risk Analysis Dashboard with interactive visuals_  
 
  
